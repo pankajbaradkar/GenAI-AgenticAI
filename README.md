@@ -1,113 +1,46 @@
-<h1 align="center">Hi 👋, I'm Pankaj Baradkar</h1>
-<h3 align="center">AI Engineer | Generative AI | LLMs | Agentic AI | ML & NLP</h3>
+# 🌟 Generative AI & Agentic AI — Complete Portfolio
+
+This repository contains **all projects, assignments, research notebooks, and hands-on implementations** from the  
+**Generative AI + Machine Learning + Agentic AI**.
+
+It is structured to showcase practical expertise in:
+
+- Python
+- Machine Learning
+- Deep Learning
+- NLP
+- LLM Development
+- RAG Systems
+- Agentic AI Architecture
+- Multi-Agent Systems
+- MCP Development
+- Multimodal AI
+- End-to-End GenAI Projects
+
+Use this repository as a **portfolio** to demonstrate your capabilities to employers, recruiters, and collaborators.
 
 ---
 
-## 🚀 About Me  
-- 🔭 I’m currently working on **Generative AI & Agentic AI projects**  
-- 🌱 Learning **LLMs, RAG Systems, Multi-Agent Workflows, Fine-tuning**  
-- 👨‍💻 All of my projects are available here on GitHub  
-- 💬 Ask me about **Python, Machine Learning, NLP, LLM apps, Agents**  
-- 📫 How to reach me: **pankajbaradkar18@gmail.com**  
-- ⚡ Fun fact: *The best way to learn AI is to build AI.*
+# 📂 Repository Structure
 
----
-
-## 🧠 Skills & Expertise
-
-### **Programming**
-- Python  
-- SQL  
-- Java (APIs)
-
-### **Machine Learning**
-- EDA, preprocessing  
-- Regression, Classification  
-- Clustering  
-- Time Series  
-- Recommender Systems  
-
-### **Deep Learning**
-- Neural Networks  
-- CNN, RNN, LSTM  
-- Transfer Learning  
-
-### **Natural Language Processing**
-- Tokenization  
-- NER, POS, Embeddings  
-- Transformers  
-- BERT/GPT pipelines  
-
-### **Generative AI**
-- VAEs  
-- GANs  
-- Diffusion Models  
-- Prompt Engineering  
-
-### **LLM Development**
-- RAG pipelines  
-- Embeddings  
-- Vector Databases (FAISS, Chroma, Pinecone)  
-- LoRA / QLoRA  
-- LLM App Development (LangChain, HuggingFace)
-
-### **Agentic AI**
-- ReAct  
-- Plan & Execute  
-- LangChain Agents  
-- LangGraph  
-- CrewAI Multi-Agent Systems  
-- AutoGen  
-
----
-
-## 🔥 Tech Stack
-
-**Languages:**  
-`Python` `JavaScript` `SQL`
-
-**AI/ML Frameworks:**  
-`PyTorch` `TensorFlow` `Scikit-Learn` `HuggingFace`
-
-**LLM & Agent Frameworks:**  
-`LangChain` `LangGraph` `CrewAI` `AutoGen`
-
-**Vector DBs:**  
-`FAISS` `Chroma` `Pinecone` `Weaviate` `Qdrant`
-
-**Developer Tools:**  
-`Git` `Docker` `FastAPI` `VS Code` `Intellij`
-
-
-## 🚀 Featured Projects
-
-### 🔹 **GenAI & Agentic AI Portfolio**  
-📁 Repository: *GenAI-AgenticAI*  
-> LLMs, RAG, Agents, Multi-Agent Systems, MCP & Industry Projects  
-
-### 🔹 AI Chatbots  
-- Customer Support Chatbot  
-- Travel Agent  
-- RAG QA System
-
-### 🔹 Machine Learning Projects  
-- Classification & Regression  
-- Fraud Detection  
-- Recommendation Systems  
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/pankajbaradkar" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:pankajbaradkar18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" />
-</a>
-</p>
-
----
-
-⭐ **If you like my work, consider giving my repositories a star!**
+```text
+GegAI-AgenticAI/
+│
+├── 00-Resources/                     → Content, datasets, references
+├── 01-Python-Statistics/             → Python fundamentals, stats, Numpy, Pandas
+├── 02-Applied-Machine-Learning/      → ML models, EDA, preprocessing
+├── 03-Deep-Learning/                 → NN, CNN, RNN, LSTM, Transformers basics
+├── 04-NLP/                           → Text processing, embeddings, NER, MT
+├── 05-Generative-AI/                 → VAEs, GANs, Diffusion, Transformers
+├── 06-LLM-Development/               → RAG, Vector DBs, Finetuning, LLM Apps
+├── 07-Agentic-AI/                    → Agents, LangChain, LangGraph, CrewAI
+├── 08-RAG-Systems/                   → Chunking, Retrieval, Agentic RAG
+├── 09-Multimodal-AI/                 → CLIP, BLIP, Whisper, SD, LLaVA
+├── 10-Fine-Tuning-Optimization/      → LoRA, QLoRA, SFT, RLHF
+├── 11-Multi-Agent-Systems/           → Multi-agent workflows, routing, protocols
+├── 12-MCP-Development/               → Tool calling, MCP server & client
+├── 13-Real-Time-Agents/              → WebSockets, FastAPI, Async agents
+├── 14-Observability-Safety/          → Guardrails, safety, tracing, logs
+├── 15-Evaluation-Testing/            → RAG Eval, LLM Eval, Agent Eval
+├── 16-Domain-Specific-Projects/      → Finance, Legal, Healthcare, E-commerce
+└── 17-Capstone-Projects/             → 8 real-world industry-grade AI projects
